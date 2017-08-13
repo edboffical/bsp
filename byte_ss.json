@@ -1,7 +1,7 @@
 {
     "ssconf_path":"/etc/shadowsocks-python/config.json",
     "ress_cmd":"/etc/init.d/shadowsocks-python restart",
-    "update_time":"60",
+    "update_time":"180",
     "port_limit": {
     }
 }
