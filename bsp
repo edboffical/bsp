@@ -21,7 +21,7 @@ for op, value in opts:
         if byte_lib.get_traffic(ss_port)=="" or ss_port not in list(byte_lib.r_config()['port_limit']):
          print "no limit info or beyond the limited."
         else:
-         print str(byte_lib.get_traffic(ss_port)) + "M/" + str(byte_lib.c_limit(ss_port)) + "M"
+         print str(byte_lib.get_traffic(ss_port))
     elif op=="-d":
         byte_lib.del_rules(ss_port)
     elif op=="-A":
