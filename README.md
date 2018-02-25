@@ -22,3 +22,9 @@ chmod 775 install
 截图:
 
 ![bsp](https://eddieby.top/bsp1.png)
+
+---
+
+现在ios系统国区appstore里下不到连接ss的应用了 为方便大家使用 可以通过我的网站下载安装Shadowrocket
+
+![Shadowrocket](http://paituo.me/250.png)
