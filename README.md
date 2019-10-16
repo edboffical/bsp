@@ -1,6 +1,6 @@
 ![bsp](http://paituo.me/bsp1.png)
 
-**bsp是shadowsocks多用户、流量、限时管理接口 - 微博:r4kish(可以关注下吗)** 
+**bsp是shadowsocks多用户、流量、限时管理接口 - 微博:r4k13h(可以关注下吗)** 
 
 ---
 
