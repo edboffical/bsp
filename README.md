@@ -1,4 +1,4 @@
-**bsp是shadowsocks多用户、流量、限时管理接口
+**bsp是shadowsocks多用户、流量、限时管理接**
 
 ---
 
